@@ -1,0 +1,12 @@
+{
+  "name": "@pork/belly",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alex Layton <alex@layton.in>",
+  "license": "MIT",
+  "dependencies": {
+    "@oada/client": "^2.4.1",
+    "@pork/trees": "^1.0.2",
+    "jsonpointer": "^4.1.0"
+  }
+}
