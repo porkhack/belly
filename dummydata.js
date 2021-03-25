@@ -3,7 +3,7 @@
 module.exports = {
   processors: [
     {
-      id: '1qghxme9xpg1verkbwcsixovtl0',
+      id: '1qghxme9xpg1verkbwcsixovtl0_PROC1',
       partnertype: 'processor',
       name: 'Pig Processor 1',
       locations: {
@@ -17,7 +17,7 @@ module.exports = {
       },
     },
     {
-      id: '1qGhrd1CXtzV87kFvWIIHKw3RDh',
+      id: '1qGhrd1CXtzV87kFvWIIHKw3RDh_PROC2',
       partnertype: 'processor',
       name: 'Pig Processor 2',
       locations: {
@@ -36,17 +36,17 @@ module.exports = {
 
   haulers: [
     {
-      id: '1qGhZLIgqcdjNuOWqDU8YX6DjEM',
+      id: '1qGhZLIgqcdjNuOWqDU8YX6DjEM_HAUL1',
       partnertype: 'hauler',
       name: 'Happy Hauler #1',
     },
     {
-      id: '1qGhauHBm6NJUUUhqaxWQe3GDxo',
+      id: '1qGhauHBm6NJUUUhqaxWQe3GDxo_HAUL2',
       partnertype: 'hauler',
       name: 'Happy Hauler #2',
     },
     {
-      id: '1qGhc83n5usBsfnb0huPQzQbxcz',
+      id: '1qGhc83n5usBsfnb0huPQzQbxcz_HAUL3',
       partnertype: 'hauler',
       name: 'Happy Hauler #3',
     },
@@ -54,17 +54,17 @@ module.exports = {
 
   farmers: [
     {
-      id: '1qGheivAkEiJHjgpEV4gUbNnRda',
+      id: '1qGheivAkEiJHjgpEV4gUbNnRda_FARMER1',
       partnertype: 'farmer',
       name: 'Frank Farmer',
       locations: {
-        '1qGhgP0GaJpBe327RFO3PdPiY3X': {
-          id: '1qGhgP0GaJpBe327RFO3PdPiY3X',
+        '1qGhgP0GaJpBe327RFO3PdPiY3X_EASTBARN': {
+          id: '1qGhgP0GaJpBe327RFO3PdPiY3X_EASTBARN',
           name: 'East barn',
           premiseid: '9294823',
         },
-        '1qGhi5iDlg8wQUtUNLOmP8CIXsw': {
-          id: '1qGhi5iDlg8wQUtUNLOmP8CIXsw',
+        '1qGhi5iDlg8wQUtUNLOmP8CIXsw_WESTBARN': {
+          id: '1qGhi5iDlg8wQUtUNLOmP8CIXsw_WESTBARN',
           name: 'West barn',
           premiseid: '54832093',
         },
