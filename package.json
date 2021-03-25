@@ -6,7 +6,9 @@
   "license": "MIT",
   "dependencies": {
     "@oada/client": "^2.4.1",
-    "@pork/trees": "^1.0.2",
+    "@pork/trees": "^1.0.6",
+    "bluebird": "^3.7.2",
+    "clone": "^2.1.2",
     "jsonpointer": "^4.1.0"
   }
 }
